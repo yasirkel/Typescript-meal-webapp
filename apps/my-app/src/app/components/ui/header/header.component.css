@@ -1,0 +1,12 @@
+ul p,
+a {
+    color: white !important;
+}
+
+header img {
+    border: 2px solid #ffffff48;
+}
+
+.header-logo {
+    margin-right: 50px;
+}
